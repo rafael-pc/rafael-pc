@@ -1,6 +1,6 @@
 ### Olá 👋, sou estudante de programação full stack 
 
-<div align="center" style="display: inline>
+<div style="display: inline">
   <a href="https://github.com/rafael-pc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-pc&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-pc&layout=compact&langs_count=7&theme=radical"/>
