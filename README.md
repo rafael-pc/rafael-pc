@@ -1,4 +1,4 @@
-### Olá 👋, sou estudante de programação full stack 
+### Olá 👋, eu sou Rafael Pereira
 
 <div>
   <a href="https://github.com/rafael-pc">
