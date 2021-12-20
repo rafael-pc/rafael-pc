@@ -1,4 +1,4 @@
-### Olá 👋, eu sou Rafael Pereira atualmente estudando programação Full Stack
+### Olá 👋, eu sou Rafael Pereira, atualmente estudo programação Full Stack
 
 <div>
   <a href="https://github.com/rafael-pc">
