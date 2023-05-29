@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/rafael-pc">
-  <img height="180" width="425" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-pc&&show_icons=true&theme=dracula"/>
-  <img height="180" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael-pc&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180" width="415" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-pc&&show_icons=true&theme=dracula"/>
+  <img height="180" width="415" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael-pc&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
