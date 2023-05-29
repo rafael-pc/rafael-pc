@@ -1,10 +1,11 @@
 ### Olá 👋, eu sou Rafael Pereira, atualmente estudo programação Front-End
 
-<div>
-  <a href="https://github.com/rafael-pc">
-  <img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafael-pc&&show_icons=true&theme=dracula"/>
-  <img align="center" height="195" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafael-pc&layout=compact&langs_count=16&theme=dracula)"/>
-</div>
+<a href="https://github.com/rafael-pc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-pc&hide=contribs&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/rafael-pc/github-readme-stats">
+  <img align="center" width="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-pc&layout=compact&theme=dark" />
+</a>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="rafael-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
