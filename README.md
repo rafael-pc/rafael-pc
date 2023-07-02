@@ -1,4 +1,4 @@
-### Olá 👋, eu sou Rafael, atualmente desenvolvedor Front-End
+### Olá 👋, eu sou Rafael, desenvolvedor Front End
 
 <a href="https://github.com/rafael-pc/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-pc&hide=contribs&show_icons=true&theme=dark" />
